@@ -26,6 +26,8 @@ Youtube were then classified by passing them in the trained network. Finally ove
 
 categorized into predefine classes depending on the quantity of the frames classified.
 
+
+
 ­ Classification of speech occurrences into different phoneme classes using Deep Belief Neural
 
 Networks (JULY 2012 – DEC 2012) ­
@@ -41,3 +43,11 @@ divergence procedure. RBM was tweaked into GBRBM (Gaussian Bernoulli RBM) in ord
 model real valued MFCC data. Fine­tuning was performed using the labeled training data set from
 
 TIMIT corpus for optimizing the classification task.
+
+
+Run file gui_f.m and just enter the path of every file in the code 
+
+
+
+
+
