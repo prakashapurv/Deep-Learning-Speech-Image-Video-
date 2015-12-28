@@ -1,0 +1,4 @@
+% for i= 1: 546
+a= imread(['E:\major\CarData\CarData\TrainImages\pos-' num2str(1) '.pgm']);
+
+img= 
