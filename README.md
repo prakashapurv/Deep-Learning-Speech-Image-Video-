@@ -8,6 +8,8 @@ To study and analyze deep belief neural network for speech and video processing:
 
 2013­ MAY 2013) ­
 
+Project Demo - https://www.youtube.com/playlist?list=PLT96T_cos6XHtvusSQr-MfxEgi-dk3_hm
+
 In this project,I worked in the field of object recognition and its application in the
 
 field of video content categorization using deep belief network. Due to computational complexities
